@@ -1,0 +1,379 @@
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\randomwords.txt
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\Alliance.Data.dll.config
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\Alliance.Data.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\Alliance.Data.pdb
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\Alliance.Data.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Xpo.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.Core.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.Reporting.Extensions.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.Reporting.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraReports.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Office.v16.1.Core.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Utils.v16.1.UI.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.DataAccess.v16.1.UI.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.DataAccess.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraRichEdit.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraCharts.v16.1.Extensions.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraPivotGrid.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.CodeParser.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.PivotGrid.v16.1.Core.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraGauges.v16.1.Core.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraCharts.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Charts.v16.1.Core.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraDiagram.v16.1.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Diagram.v16.1.Core.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.Core.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.Reporting.Extensions.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Xpo.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.Reporting.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraReports.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Office.v16.1.Core.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Utils.v16.1.UI.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.DataAccess.v16.1.UI.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.DataAccess.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraRichEdit.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraPivotGrid.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.PivotGrid.v16.1.Core.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraGauges.v16.1.Core.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraCharts.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.XtraDiagram.v16.1.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\DevExpress.Diagram.v16.1.Core.xml
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraScheduler.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraScheduler.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.Xpo.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.Xpo.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.Xpo.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.Xpo.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraScheduler.v16.1.Reporting.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraScheduler.v16.1.Reporting.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.Reporting.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.Reporting.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraReports.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraReports.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraReports.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraReports.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.DataAccess.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.DataAccess.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.DataAccess.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.DataAccess.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\de\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\es\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ja\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\bin\Debug\ru\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Dev Projects\Willow\Alliance.Data\obj\Debug\Alliance.Data.vbprojResolveAssemblyReference.cache
+C:\Dev Projects\Willow\Alliance.Data\obj\Debug\Resources.resources
+C:\Dev Projects\Willow\Alliance.Data\obj\Debug\Alliance.Data.vbproj.GenerateResource.Cache
+C:\Dev Projects\Willow\Alliance.Data\obj\Debug\Alliance.Data.dll
+C:\Dev Projects\Willow\Alliance.Data\obj\Debug\Alliance.Data.xml
+C:\Dev Projects\Willow\Alliance.Data\obj\Debug\Alliance.Data.pdb
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\randomwords.txt
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\Alliance.Data.dll.config
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\Alliance.Data.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\Alliance.Data.pdb
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\Alliance.Data.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Xpo.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraGrid.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraNavBar.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraPrinting.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.Core.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.Reporting.Extensions.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.RichEdit.v16.1.Core.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.Reporting.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraReports.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Office.v16.1.Core.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Utils.v16.1.UI.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.DataAccess.v16.1.UI.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.DataAccess.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraRichEdit.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraCharts.v16.1.Extensions.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraPivotGrid.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.CodeParser.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.PivotGrid.v16.1.Core.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraGauges.v16.1.Core.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraCharts.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Charts.v16.1.Core.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraDiagram.v16.1.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Diagram.v16.1.Core.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraNavBar.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraPrinting.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraGrid.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.Core.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.Reporting.Extensions.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Xpo.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.RichEdit.v16.1.Core.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraReports.v16.1.Extensions.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraScheduler.v16.1.Reporting.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraReports.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Office.v16.1.Core.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Utils.v16.1.UI.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.DataAccess.v16.1.UI.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.DataAccess.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraRichEdit.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraPivotGrid.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraVerticalGrid.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.PivotGrid.v16.1.Core.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraGauges.v16.1.Core.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraCharts.v16.1.Wizard.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraCharts.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.XtraDiagram.v16.1.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\DevExpress.Diagram.v16.1.Core.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraNavBar.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraPrinting.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraGrid.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraScheduler.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraScheduler.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.Xpo.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.Xpo.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.Xpo.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.Xpo.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.RichEdit.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraReports.v16.1.Extensions.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraScheduler.v16.1.Reporting.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraScheduler.v16.1.Reporting.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraScheduler.v16.1.Reporting.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraScheduler.v16.1.Reporting.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraReports.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraReports.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraReports.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraReports.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.Utils.v16.1.UI.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.DataAccess.v16.1.UI.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.DataAccess.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.DataAccess.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.DataAccess.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.DataAccess.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraRichEdit.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraPivotGrid.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.PivotGrid.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraGauges.v16.1.Core.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraCharts.v16.1.Wizard.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\de\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\es\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ja\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\ru\DevExpress.XtraCharts.v16.1.resources.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\obj\Debug\Resources.resources
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\obj\Debug\Alliance.Data.vbproj.GenerateResource.Cache
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\obj\Debug\Alliance.Data.dll
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\obj\Debug\Alliance.Data.xml
+C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\obj\Debug\Alliance.Data.pdb

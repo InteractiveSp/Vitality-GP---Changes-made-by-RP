@@ -1,0 +1,764 @@
+/*
+Theme Name: Class CorporateHealth
+Description: A custom theme built by Class Creative
+Author: Class Creative
+Author URI: http://www.class-creative.com
+Version: 1.0
+*/
+
+
+/*************** ADD YOUR CSS HERE ***************/
+
+#main{
+	padding-top: 60px;
+	overflow: hidden;
+}
+
+/*************** HEADER ***************/
+
+.brand-logo{
+	padding: 20px;
+}
+
+.main-header{
+	height: 500px;
+	background-size: cover;
+  background-position: top center;
+  position: relative;
+}
+
+.home .main-header{
+<<<<<<< HEAD
+	height: 773px;
+=======
+	height: 760px;
+>>>>>>> origin/master
+	background-size: cover;
+  background-position: center top;
+  position: relative;
+}
+
+.page-id-71 .main-header, .page-id-67 .main-header{
+	height: 500px;
+	background-size: cover;
+  background-position: top center;
+  position: relative;
+}
+
+.page-template-template-contact .main-header{
+	height: 390px;
+	position: relative;
+}
+
+.single-case-studies .main-header{
+  height:320px;
+}
+
+.main-header .wrapper{
+  width:100%;
+  max-width: 100%;
+  position: relative;
+}
+
+.main-header .container{
+  width: 88%;
+}
+
+.main-header nav{
+  height: inherit;
+  background-color: initial;
+  padding: 20px 40px;
+	font-family: 'Avenir';
+	min-height: 130px;
+}
+
+.main-header h1{
+  color: #fff;
+  font-size: 60px;
+  margin-bottom: 30px;
+  margin-top: 70px;
+  text-shadow: 0 1px 8px rgba(0,0,0,0.3);
+}
+
+.main-header h1 span{
+  display: block;
+  color: #A4DEFF;
+}
+
+.main-header h1 span:last-child{
+  -webkit-animation-delay: 0.7s;
+  animation-delay: 0.7s;
+  color: #fff;
+  font-size: 46px;
+  line-height: 55px;
+}
+
+.main-header p, .home .main-header em{
+  color: #fff;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 0;
+}
+
+.main-header p{
+  text-shadow: 0 1px 8px rgba(0,0,0,0.3);
+}
+
+.home .main-header p, .home .main-header em, .home .main-header .btn-large, .home .main-header img{
+  -webkit-animation-delay: 1.2s;
+  -webkit-animation-duration: 2s;
+  animation-delay: 1.2s;
+  animation-duration: 2s;
+}
+
+.main-header p, .main-header em, .main-header .btn-large, .main-header img{
+  -webkit-animation-delay: 0.4s;
+  -webkit-animation-duration: 2s;
+  animation-delay: 0.4s;
+  animation-duration: 2s;
+}
+
+.main-header em{
+	display: block;
+	font-weight: bold;
+}
+
+.overlay{
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgb(73,151,223);
+  background: rgba(73,151,233,0.93);
+  background: -moz-linear-gradient( 0deg, rgba(73,151,233,0.90) 0%, rgba(50,181,242,0.90) 100%);
+  background: -webkit-linear-gradient( 0deg, rgba(73,151,233,0.90) 0%, rgba(50,181,242,0.90) 100%);
+  background: -ms-linear-gradient( 0deg, rgba(73,151,233,0.90) 0%, rgba(50,181,242,0.90) 100%);
+}
+
+.main-header .trusted-by{
+	margin-top: 50px;
+}
+
+.main-header .trusted-by em{
+  margin-bottom: 15px;
+}
+
+.main-header .logos{
+  vertical-align: middle;
+}
+
+.main-header .logos img{
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 60px 30px 0;
+}
+
+.count span{
+	font-size: 50px;
+	font-family: 'Avenir';
+	color: rgba(166,119,193,1);
+  background-image: -webkit-linear-gradient( 0deg, rgba(73,151,223,1) 1%, rgba(166,119,193,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.count span.icon{
+	color: rgba(166,119,193,1);
+	font-size: 25px;
+	display: inline-block;
+}
+/*************** NAV ***************/
+
+nav{
+    box-shadow: none;
+}
+
+nav ul li {
+    border-radius: 5px;
+}
+
+nav ul li:hover, nav ul li.active {
+    background-color: rgba(0,0,0,0.2);
+}
+
+nav ul a {
+    line-height: 33px;
+    text-shadow: 0 1px 8px rgba(0,0,0,0.3);
+}
+
+.responsive-img{
+  border-radius: 2px;
+}
+/*************** FORMS ***************/
+
+.btn, .btn-large, input.ninja-forms-field[type="submit"]{
+	font-family: 'Avenir';
+	text-transform: none;
+  	font-size: 15px;
+  	padding: 0px 25px;
+}
+
+.btn-block{
+	min-width:100%;
+}
+o
+0px;
+}
+
+t}
+op: -270px;
+}
+
+.txt-img .intro{
+  font-s************** SECTIONS ***************/
+
+.section-button{
+	margin-top: 30px;
+}
+
+.text-img{
+	margin-bottom: 100px;
+}
+
+.text-img-left .img-container img{
+	margin-top: -270px;
+}
+
+.text-img .intro{
+  font-size: 20px;
+  font-weight: bold;
+  color: #4a97e9;
+  font-family: 'Avenir';
+}
+
+.intro-text-section .intro{
+  font-size: 23px;
+  font-family: 'Avenir';
+  color: #4a97e9;
+}
+
+.grey-container{
+  padding: 100px 0;
+  background: #f4f5f0;
+}
+
+.usps .usp{
+  margin-top: 50px;
+}
+
+.usps .usp h4{
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+.usps .big-number{
+  color: #e6e7e2;
+  font-size: 120px;
+  font-family: 'Avenir';
+  padding: 0 70px;
+  margin-top: 70px;
+  display: block;
+}
+
+.usps .even .big-number{
+  text-align: right;
+}
+
+.img-container{
+	text-align: right;
+  position: relative;
+}
+
+.img-container .img-2{
+	margin-top: 20px;
+	margin-right: 30px;
+}
+
+.case-study-card{
+  position: absolute;
+  left:90px;
+  top:280px;
+  width:280px;
+  text-align: left;
+}
+
+.case-study-card .intro-text{
+  padding: 10px;
+}
+
+.case-study-card .intro-text a{
+  display: block;
+  margin-top: 10px;
+}
+
+.generic-content-with-bg{
+	background-size: cover;
+	margin-bottom: 100px;
+	padding: 60px 0;
+	text-align: center;
+}
+
+.generic-content-with-bg h2, .specialisms h2{
+	color: #fff;
+	text-shadow: 0 1px 8px rgba(0,0,0,0.2);
+}
+
+.generic-content-with-bg p{
+	color: #fff;
+	margin-bottom: 20px;
+	text-shadow: 0 1px 8px rgba(0,0,0,0.2);
+}
+
+.specialisms{
+	background-size: cover;
+  background-position: top center;
+  position: relative;
+  padding: 60px 0;
+}
+
+.specialisms p{
+	color: #fff;
+	text-shadow: 0 1px 8px rgba(0,0,0,0.2);
+}
+
+.specialisms .wrapper{
+	position: relative;
+}
+
+.specialisms .justify-grid {
+  -webkit-columns: 4;
+  -moz-columns: 4;
+  columns: 4;
+  padding: 0;
+  list-style: none;
+}
+
+.specialisms .justify-grid li{
+	color: #fff;
+	text-shadow: 0 1px 8px rgba(0,0,0,0.2);
+	font-family: 'Avenir';
+	margin-bottom: 12px;
+	font-size: 14px;
+}
+
+.contact-section{
+  background-image: -moz-linear-gradient( 0deg, rgba(73,151,223,1) 1%, rgba(166,119,193,1) 100%);
+  background-image: -webkit-linear-gradient( 0deg, rgba(73,151,223,1) 1%, rgba(166,119,193,1) 100%);
+  background-image: -ms-linear-gradient( 0deg, rgba(73,151,223,1) 1%, rgba(166,119,193,1) 100%);
+  padding: 60px 0;
+  text-align: center;
+}
+
+.contact-section h2, .contact-section p{
+  color: #fff;
+  max-width: 450px;
+  margin: 10px auto 25px auto;
+}
+
+.contact-section span{
+  color: #fff;
+  margin: 10px auto 25px auto;
+  font-size: 30px;
+  font-family: 'Avenir';
+}
+
+.experiences, .our-process, .case-studies{
+    background: #fdfdfd;
+}
+
+.experiences .card, .case-studies .card{
+	margin-bottom: 35px;
+}
+
+.experiences .card.bounce, .case-studies .card.bounce{
+	-webkit-animation: cd-bounce-2 0.6s;
+    -moz-animation: cd-bounce-2 0.6s;
+    animation: cd-bounce-2 0.6s;
+}
+
+.experiences .card p, .case-studies .card p{
+	margin-top: 10px;
+}
+
+.experiences .card .card-content, .case-studies .card .card-content {
+    padding: 30px;
+}
+
+.experiences .card .card-action{
+	border:0;
+	position: absolute;
+	bottom: 0;
+	background: #fff;
+	left: 0;
+    right: 0;
+    padding: 0 30px 30px 30px;
+}
+
+.usps .card .card-action a{
+    text-transform: none;
+}
+
+.usps .card .card-title, .case-studies .card .card-title{
+	display: block;
+	font-family: 'Avenir';
+	font-size: 16px;
+	line-height: 22px;
+	margin-bottom: 10px;
+}
+
+.usps .card .card-image, .case-studies .card .card-image{
+	height: 100%;
+}
+
+.usps .experience-image, .case-studies .experience-image{
+	position: relative;
+	min-height: 390px;
+}
+
+.consultants .experience-image{
+  min-height: 200px;
+}
+
+.consultants .experience-image .img{
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);
+}
+
+.consultants .card h4{
+  color: #4a97e9;
+  margin-bottom: 0;
+}
+
+.consultants .card span{
+  font-size: 13px;
+}
+
+.usps .experience-image .img, .case-studies .experience-image .img{
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 11px;
+	right: 0;
+	background-size: cover;
+	background-position: bottom center;
+	z-index: 9;
+}
+
+.experiences .wrapper, .case-studies .wrapper{
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.single-case-studies .case-studies{
+  margin-top:50px;
+}
+
+.single-case-studies .case-studies h2{
+  font-size: 30px;
+}
+
+.case-studies .read-more{
+  display: block;
+  margin-top: 15px;
+}
+
+.sig{
+  margin-top: 30px;
+}
+
+.sig img{
+  margin-right: 30px;
+}
+
+.grid{
+
+}
+
+.grid .column{
+    width: 47%;
+    margin-right: 6%;
+}
+
+.grid .column:last-child{
+    margin-right: 0;
+}
+
+
+.grid:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+
+
+.quote{
+	margin: 100px 0;
+}
+
+.quote-image{
+	text-align: center;
+}
+
+blockquote{
+	border:0;
+	font-size: 28px;
+	font-family: 'Avenir';
+	margin: 0;
+	color: #3d3b3c;
+	padding-left: 50px;
+	background-repeat: no-repeat;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAWCAYAAABOm/V6AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAAAsSAAALEgHS3X78AAABE0lEQVRIx8WWwW6DMBBEJw4ERaryXf7k+akqOVSlEcLKBaJg1nQWR61vYL1ldsYrc4CxYowtgAu09U2yz/gOwIfIfzWFjTOATixyq+SvobChFhhIjhV8TzKtRMQYA4BWLWLwRwBHtQkAsJxQuzBF7OEtEaoLYyGKk+rCzFsizhUueJx48gsRzjyt89Du4XMn1C5GkkOFC4upykWoeZaiUM/T/fVhrxP3wnv3eViIcOSZSK5ETHwQ+FWUr5Daxc87XchF7Mrz3SKUIim/MZ28OVUBcOVpRjFd3coyXZw//FdT8e8iilF6RPQkU/7ScfWXpgqhNk+xgS0enh+YUicSvzFVaCaFn7/USFYU0+q3upz5rc0HCmZoQ8wuN9EAAAAASUVORK5CYII=);
+}
+
+blockquote p{
+	margin-bottom: 15px;
+}
+
+blockquote p:after{
+	content: '';
+	display: inline-block;
+	width: 33px;
+	height: 22px;
+	background-repeat: no-repeat;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAWCAYAAABOm/V6AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAAAsSAAALEgHS3X78AAABE0lEQVRIx8WWwW6DMBBEJw4ERaryXf7k+akqOVSlEcLKBaJg1nQWR61vYL1ldsYrc4CxYowtgAu09U2yz/gOwIfIfzWFjTOATixyq+SvobChFhhIjhV8TzKtRMQYA4BWLWLwRwBHtQkAsJxQuzBF7OEtEaoLYyGKk+rCzFsizhUueJx48gsRzjyt89Du4XMn1C5GkkOFC4upykWoeZaiUM/T/fVhrxP3wnv3eViIcOSZSK5ETHwQ+FWUr5Daxc87XchF7Mrz3SKUIim/MZ28OVUBcOVpRjFd3coyXZw//FdT8e8iilF6RPQkU/7ScfWXpgqhNk+xgS0enh+YUicSvzFVaCaFn7/USFYU0+q3upz5rc0HCmZoQ8wuN9EAAAAASUVORK5CYII=);
+	position:relative;
+	margin-left: 10px;
+	top: 10px;
+}
+
+blockquote cite{
+	font-family: 'ProximaNova';
+	font-weight: bold;
+	font-size: 20px;
+	color: #b6b6b6;
+}
+
+blockquote cite span{
+	color: #4997e9;
+}
+
+.cta{
+	margin: 100px 0 20px 0;
+}
+
+.cta h5{
+	margin-bottom: 30px;
+	font-family: 'ProximaNova';
+}
+
+.cta h5 span, .cta h5 a{
+	font-family: 'Avenir';
+	color: #4997e9;
+}
+/*************** PAGE TEMPLATES ***************/
+
+.page-template-template-contact .card .tel{
+	display: block;
+	font-size: 32px;
+	font-family: 'Avenir';
+	color: rgb(166,119,193);
+  	background-image: -webkit-linear-gradient( 0deg, rgba(73,151,223,1) 1%, rgba(166,119,193,1) 100%);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+  	margin-bottom: 20px;
+}
+
+.page-template-template-contact .card .tel:last-child{
+  	margin-bottom: 0;
+}
+
+.page-template-template-contact .label{
+	display: block;
+	font-weight: bold;
+	font-family: 'Avenir';
+	color: #1e1e1e;
+}
+
+.page-template-template-contact .contact-card{
+	padding: 20px 30px;
+	position: absolute;
+    bottom: -230px;
+}
+
+.page-template-template-contact .address, .page-template-template-contact .fast-track{
+	margin-top: 140px;
+}
+
+.page-template-template-contact .office{
+  margin-top:50px;
+}
+
+/************* MEDIA QUERIES ****************/
+
+@media (max-width: 1270px) {
+  .main-header h1 {
+    font-size: 46px;
+  }
+
+  .main-header .btn, .main-header .btn-large{
+    font-size: 13px !important;
+    padding: 0px 20px;
+  }
+}
+
+@media (max-width: 1150px) {
+  .main-header .btn, .main-header .btn-large{
+    font-size: 12px;
+    padding: 0px 10px;
+  }
+
+  .main-header .container{
+    width: 90%;
+  }
+}
+@media (max-width: 992px) {
+	.main-header{
+		height: auto !important;
+		padding-bottom: 50px;
+	}
+
+	.main-header .brand-logo img{
+		width: 160px;
+	}
+
+	.main-header h1{
+		margin-top: 25px;
+		font-size: 43px;
+	}
+
+	.main-header .vitality-health img{
+		width:150px;
+	}
+
+	.main-header .vitality-health p{
+		font-size: 12px;
+	}
+
+  .main-header .btn, .main-header .btn-large{
+    font-size: 14px;
+    padding: 0px 30px;
+  }
+
+	.specialisms .justify-grid {
+	    columns: 2;
+	    -webkit-columns: 2;
+	    -moz-columns: 2;
+	}
+
+	.grid .column {
+    	width: 100%;
+    	margin-right: 0;
+	}
+
+  .text-img-left .img-container {
+    position: relative;
+  }
+
+	.text-img-left .img-container img {
+    	margin-top: 0;
+	}
+
+	.page-template-template-contact .contact-card {
+	    padding: 0;
+	    position: static;
+	    bottom: 0px;
+      margin: 0 auto;
+	}
+
+	.page-template-template-contact .card .tel{
+		display: block;
+		font-size: 26px;
+	  	margin-bottom: 10px;
+	}
+
+  .case-study-card {
+    position: static;
+    width: 100%;
+    text-align: left;
+  }
+}
+
+@media (max-width: 600px) {
+  .main-header nav {
+    padding: 20px 20px;
+  }
+
+  .main-header .container{
+    width: 100%;
+  }
+
+	h2 {
+	    font-size: 30px;
+	    margin-bottom: 33px;
+	    margin-top: 0px;
+	}
+
+	.specialisms{
+		text-align: center;
+	}
+
+	.specialisms .justify-grid {
+	    columns: initial;
+	    -webkit-columns: initial;
+	    -moz-columns: initial;
+	}
+
+	.experiences .experience-image {
+		min-height: 200px;
+	}
+
+	.experiences .experience-image .img {
+	    left: 10px;
+	    right: 10px;
+	}
+
+  .img-container .img-1{
+    margin-top: 20px;
+  }
+
+  .generic-content-with-bg, .text-img {
+    margin-bottom: 50px;
+  }
+
+  .page-template-template-contact .card .tel{
+    font-size: 20px;
+  }
+
+  .usps .experience-image .img, .case-studies .experience-image .img{
+    left: 10px;
+    right: 10px;
+  }
+}
+
+@media (max-width: 500px) {
+  .main-header h1 {
+    font-size: 32px;
+    line-height: 45px;
+  }
+
+  .main-header h1 span:last-child {
+    font-size: 32px;
+    line-height: 45px;
+  }
+
+  .main-header .logos img {
+    padding: 0 25px 25px 0;
+  }
+
+  .modal-header {
+    height: 70px;
+  }
+
+  .modal-header .wrapper {
+    padding: 20px;
+  }
+
+  .modal-header h4 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+}

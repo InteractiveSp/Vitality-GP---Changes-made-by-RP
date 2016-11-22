@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Alliance.Data
+</name>
+</assembly>
+<members>
+<member name="T:My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Alliance.Data.CloneHelper.Clone(System.Object,System.Boolean)">
+ <param name="synchronize">If set to true, reference properties are only cloned in case
+ the reference object does not exist in the targetsession. Otherwise the exising object will be
+ reused and synchronized with the source. Set this property to false when knowing at forehand 
+ that the targetSession will not contain any of the objects of the source.</param>
+ <returns></returns>
+</member>
+<member name="T:Alliance.Data.Client">
+ <summary>
+ Clients
+ </summary>
+ lar de lar
+ <remarks>remarks go here</remarks>
+</member>
+<member name="M:MakePassword.Mixedcase(System.String)">
+ <summary>
+ Converts the supplied word to a lowercase word with the first Character Capitilised 
+ </summary>
+ <param name="Word">The word to convert</param>
+ <returns>a Lowercase word with the first Character Capitilised </returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
