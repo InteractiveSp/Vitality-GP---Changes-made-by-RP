@@ -217,7 +217,6 @@
       <DependentUpon>PrevRefs.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="App_Code\vitop.vb" />
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -257,8 +256,6 @@
       <DependentUpon>Root.master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="XpoHelper.vb" />
-    <Compile Include="XpoHelper2.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\licenses.licx" />
@@ -321,6 +318,9 @@
       <Project>{64358044-1010-4e3d-a18d-acb7755c40fa}</Project>
       <Name>Alliance.Data</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Code\" />
   </ItemGroup>
   <!--<ItemGroup>
     <Folder Include="App_Data\" />

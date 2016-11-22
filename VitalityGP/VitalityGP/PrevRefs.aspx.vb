@@ -1,4 +1,5 @@
 ﻿Imports DevExpress.Xpo
+Imports Alliance.Data
 
 Public Class PrevRefs
     Inherits System.Web.UI.Page
@@ -8,7 +9,7 @@ Public Class PrevRefs
         'XpoDataSource2.Session = session
 
 
-        Dim session As Session = XpoHelper2.GetNewSession(XpoHelper2.Database.XpoWebTest)
+        Dim session As Session = XpoHelper.GetNewSession()
         XpoDataSource1.Session = session
 
     End Sub

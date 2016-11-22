@@ -10,7 +10,7 @@ Public Class _Default1
         'XpoDataSource2.Session = session
 
 
-        Dim session As Session = XpoHelper2.GetNewSession(XpoHelper2.Database.CRM)
+        Dim session As Session = XpoHelper.GetNewSession()
         XpoDataSource2.Session = session
 
     End Sub

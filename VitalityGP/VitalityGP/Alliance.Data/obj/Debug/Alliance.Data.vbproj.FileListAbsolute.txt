@@ -377,3 +377,13 @@ C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\obj\Debug\
 C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\obj\Debug\Alliance.Data.dll
 C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\obj\Debug\Alliance.Data.xml
 C:\Dev Projects\VitalityGP - Copy\VitalityGP\VitalityGP\Alliance.Data\obj\Debug\Alliance.Data.pdb
+C:\Users\John\Documents\GitHub\Vitality-GP---Changes-made-by-RP\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\randomwords.txt
+C:\Users\John\Documents\GitHub\Vitality-GP---Changes-made-by-RP\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\Alliance.Data.dll.config
+C:\Users\John\Documents\GitHub\Vitality-GP---Changes-made-by-RP\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\Alliance.Data.dll
+C:\Users\John\Documents\GitHub\Vitality-GP---Changes-made-by-RP\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\Alliance.Data.pdb
+C:\Users\John\Documents\GitHub\Vitality-GP---Changes-made-by-RP\VitalityGP\VitalityGP\Alliance.Data\bin\Debug\Alliance.Data.xml
+C:\Users\John\Documents\GitHub\Vitality-GP---Changes-made-by-RP\VitalityGP\VitalityGP\Alliance.Data\obj\Debug\Resources.resources
+C:\Users\John\Documents\GitHub\Vitality-GP---Changes-made-by-RP\VitalityGP\VitalityGP\Alliance.Data\obj\Debug\Alliance.Data.vbproj.GenerateResource.Cache
+C:\Users\John\Documents\GitHub\Vitality-GP---Changes-made-by-RP\VitalityGP\VitalityGP\Alliance.Data\obj\Debug\Alliance.Data.dll
+C:\Users\John\Documents\GitHub\Vitality-GP---Changes-made-by-RP\VitalityGP\VitalityGP\Alliance.Data\obj\Debug\Alliance.Data.xml
+C:\Users\John\Documents\GitHub\Vitality-GP---Changes-made-by-RP\VitalityGP\VitalityGP\Alliance.Data\obj\Debug\Alliance.Data.pdb

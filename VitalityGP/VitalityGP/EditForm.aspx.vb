@@ -4,6 +4,7 @@ Imports DevExpress.Web
 Imports System.Web.UI
 Imports System.Web.UI.WebControls
 Imports DevExpress.Data.Filtering
+Imports Alliance.Data
 
 
 Public Class EditForm
@@ -16,7 +17,7 @@ Public Class EditForm
         'XpoDataSource2.Session = session
 
 
-        Dim session As Session = XpoHelper2.GetNewSession(XpoHelper2.Database.XpoWebTest)
+        Dim session As Session = XpoHelper.GetNewSession()
         XpoDataSource1.Session = session
 
 
@@ -33,19 +34,19 @@ Public Class EditForm
 
 
         ' Alternative to using bound text box to save on realestate just query xpo object with id and display referral in Referral Detail group section header
-        If CInt(Request.QueryString("id")) Then
-            Using collection As New XPCollection(XpoDataSource1.Session, GetType(vitop))
+        'If CInt(Request.QueryString("id")) Then
+        '    Using collection As New XPCollection(XpoDataSource1.Session, GetType(vitop))
 
-                collection.Filter = CriteriaOperator.Parse("Oid = " & Request.QueryString("id"))
+        '        collection.Filter = CriteriaOperator.Parse("Oid = " & Request.QueryString("id"))
 
-                Dim viewRef As vitop = CType(collection(0), vitop)
+        '        Dim viewRef As vitop = CType(collection(0), vitop)
 
-                ASPxFormLayout1.Items(3).Caption = "AS Ref " & viewRef.AsRef.ToString() & " Details"
-            End Using
+        '        ASPxFormLayout1.Items(3).Caption = "AS Ref " & viewRef.AsRef.ToString() & " Details"
+        '    End Using
 
-        End If
+        'End If
 
-      
+
 
 
         ' u.ProviderUserKey 'userid guid
