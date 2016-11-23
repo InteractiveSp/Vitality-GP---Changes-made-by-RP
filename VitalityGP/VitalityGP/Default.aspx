@@ -2,9 +2,8 @@
  <%@ Register assembly="DevExpress.Web.v16.1, Version=16.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web" tagprefix="dx" %>
 <%@ Register assembly="DevExpress.Xpo.v16.1, Version=16.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Xpo" tagprefix="dx" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-   
 
-
+    
     <dx:ASPxFormLayout ID="ASPxFormLayout1" runat="server" ColCount="2" EnableTheming="True" Theme="Office2003Blue" ClientInstanceName="ASPxFormLayout1">
               <Items>
             <dx:LayoutGroup Caption="Patient Details" ColCount="4" ColSpan="2">
@@ -12,7 +11,8 @@
                     <dx:LayoutItem FieldName="Title">
                         <LayoutItemNestedControlCollection>
                             <dx:LayoutItemNestedControlContainer ID="LayoutItemNestedControlContainer1" runat="server">
-                                <dx:ASPxComboBox ID="cboTitle" runat="server" MaxLength="50">
+                 
+                                <dx:ASPxComboBox ID="cboTitle" runat="server" MaxLength="50" ClientInstanceName="cboTitle"  ClientSideEvents-SelectedIndexChanged="function(s, e) { SetGenderDropdown(s);}" >
                                     <Items>
                                         <dx:ListEditItem Text="Miss." Value="Miss." />
                                         <dx:ListEditItem Text="Mrs." Value="Mrs." />
@@ -73,7 +73,7 @@
                     </dx:LayoutItem>
                 <dx:LayoutItem FieldName="Gender" Caption="Gender"><LayoutItemNestedControlCollection>
 <dx:LayoutItemNestedControlContainer ID="LayoutItemNestedControlContainer5" runat="server">
-                        <dx:ASPxComboBox ID="cboGender" runat="server">
+                        <dx:ASPxComboBox ID="cboGender" runat="server" ClientInstanceName="cboGender">
                             <Items>
                                 <dx:ListEditItem Text="Not Known" Value="Unknow" />
                                 <dx:ListEditItem Text="Male" Value="1" />
@@ -381,7 +381,34 @@ dtCallBack.SetDate(new Date().addHours(2));
     </dx:ASPxFormLayout>
      <dx:XpoDataSource ID="XpoDataSource2" runat="server" DefaultSorting="" TypeName="VitalityGP.vitop">
     </dx:XpoDataSource>
+  
+    <script type="text/javascript">
+      
+        function SetGenderDropdown()
+        {
+            var currentSelectedTitle = String;
+            currentSelectedTitle = cboTitle.lastSuccessText
 
+            if (currentSelectedTitle == 'Mr.' | currentSelectedTitle == 'Master' | currentSelectedTitle == 'Sir')
+            {
+                //Set to gender dropdown to Male
+                cboGender.selectedIndex = 1;
+                cboGender.SetSelectedIndex(1);
+            }
+            else if (currentSelectedTitle == 'Miss.' | currentSelectedTitle == 'Mrs.' | currentSelectedTitle == 'Ms.' | currentSelectedTitle == 'Lady' | currentSelectedTitle == 'Dame')
+            {
+                //Set to gender dropdown to Female
+                cboGender.selectedIndex = 2;
+                cboGender.SetSelectedIndex(2);
+            }
+            else
+            {
+                //Set to gender dropdown to nothing
+                cboGender.selectedIndex = -1;
+                cboGender.SetSelectedIndex(-1);
+            }
+        }
 
+    </script>
 </asp:Content>
 

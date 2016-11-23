@@ -75,8 +75,7 @@
                 <br>
                 <div class="center-align">
                   <%--  <asp:button class="waves-effect waves-light green lighten-1 btn-small btn-center modal-trigger animated fadeIn" id="LoginButton" runat="server" validationgroup="Login1" text="Log In" commandname="Login" OnClick="LoginButton_Click"></asp:button> --%>   
-                    <dx:ASPxButton ID="LoginButton" runat="server" Text="Log In" ValidationGroup="LoginUserValidationGroup"
-                            OnClick="LoginButton_Click">
+                    <dx:ASPxButton ID="LoginButton" runat="server" Text="Log In" ValidationGroup="Login1" commandname="Login"  OnClick="LoginButton_Click">
                         </dx:ASPxButton>
                     <div class="center-align">
                         <asp:literal id="FailureText" runat="server" enableviewstate="False"></asp:literal>

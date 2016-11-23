@@ -12,7 +12,7 @@ Option Explicit On
 
 
 Partial Public Class _Default1
-
+    
     '''<summary>
     '''ASPxFormLayout1 control.
     '''</summary>
@@ -21,7 +21,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents ASPxFormLayout1 As Global.DevExpress.Web.ASPxFormLayout
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer1 control.
     '''</summary>
@@ -30,7 +30,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer1 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''cboTitle control.
     '''</summary>
@@ -39,7 +39,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents cboTitle As Global.DevExpress.Web.ASPxComboBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer2 control.
     '''</summary>
@@ -48,7 +48,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer2 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''txtFirstName control.
     '''</summary>
@@ -57,7 +57,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents txtFirstName As Global.DevExpress.Web.ASPxTextBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer3 control.
     '''</summary>
@@ -66,7 +66,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer3 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''txtLastname control.
     '''</summary>
@@ -75,7 +75,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents txtLastname As Global.DevExpress.Web.ASPxTextBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer4 control.
     '''</summary>
@@ -84,7 +84,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer4 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''dtDOB control.
     '''</summary>
@@ -93,7 +93,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents dtDOB As Global.DevExpress.Web.ASPxDateEdit
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer5 control.
     '''</summary>
@@ -102,7 +102,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer5 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''cboGender control.
     '''</summary>
@@ -111,7 +111,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents cboGender As Global.DevExpress.Web.ASPxComboBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer6 control.
     '''</summary>
@@ -120,7 +120,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer6 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''txtPolicyNumber control.
     '''</summary>
@@ -129,7 +129,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents txtPolicyNumber As Global.DevExpress.Web.ASPxTextBox
-
+    
     '''<summary>
     '''chkStaffClaim control.
     '''</summary>
@@ -138,7 +138,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents chkStaffClaim As Global.DevExpress.Web.ASPxCheckBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer7 control.
     '''</summary>
@@ -147,7 +147,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer7 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''txtAddress1 control.
     '''</summary>
@@ -156,7 +156,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents txtAddress1 As Global.DevExpress.Web.ASPxTextBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer8 control.
     '''</summary>
@@ -165,7 +165,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer8 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''txtAddress2 control.
     '''</summary>
@@ -174,7 +174,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents txtAddress2 As Global.DevExpress.Web.ASPxTextBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer9 control.
     '''</summary>
@@ -183,7 +183,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer9 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''txtAddress3 control.
     '''</summary>
@@ -192,7 +192,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents txtAddress3 As Global.DevExpress.Web.ASPxTextBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer10 control.
     '''</summary>
@@ -201,7 +201,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer10 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''txtPostcode control.
     '''</summary>
@@ -210,7 +210,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents txtPostcode As Global.DevExpress.Web.ASPxTextBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer11 control.
     '''</summary>
@@ -219,7 +219,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer11 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''txtAltContact control.
     '''</summary>
@@ -228,7 +228,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents txtAltContact As Global.DevExpress.Web.ASPxTextBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer12 control.
     '''</summary>
@@ -237,7 +237,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer12 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''txtTelephone control.
     '''</summary>
@@ -246,7 +246,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents txtTelephone As Global.DevExpress.Web.ASPxTextBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer13 control.
     '''</summary>
@@ -255,7 +255,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer13 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''dtCallBack control.
     '''</summary>
@@ -264,7 +264,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents dtCallBack As Global.DevExpress.Web.ASPxDateEdit
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer14 control.
     '''</summary>
@@ -273,7 +273,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer14 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''chkLeaveMessage control.
     '''</summary>
@@ -282,7 +282,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents chkLeaveMessage As Global.DevExpress.Web.ASPxCheckBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer15 control.
     '''</summary>
@@ -291,7 +291,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer15 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''chkThirdParty control.
     '''</summary>
@@ -300,7 +300,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents chkThirdParty As Global.DevExpress.Web.ASPxCheckBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer18 control.
     '''</summary>
@@ -309,7 +309,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer18 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''txtPresentingCondition control.
     '''</summary>
@@ -318,7 +318,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents txtPresentingCondition As Global.DevExpress.Web.ASPxTextBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer16 control.
     '''</summary>
@@ -327,7 +327,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer16 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''chkSelfPay control.
     '''</summary>
@@ -336,7 +336,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents chkSelfPay As Global.DevExpress.Web.ASPxCheckBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer17 control.
     '''</summary>
@@ -345,7 +345,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer17 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''txtSymptoms control.
     '''</summary>
@@ -354,7 +354,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents txtSymptoms As Global.DevExpress.Web.ASPxMemo
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer19 control.
     '''</summary>
@@ -363,7 +363,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer19 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''spinOutPatientLimit control.
     '''</summary>
@@ -372,7 +372,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents spinOutPatientLimit As Global.DevExpress.Web.ASPxSpinEdit
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer20 control.
     '''</summary>
@@ -381,7 +381,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer20 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''spinExcess control.
     '''</summary>
@@ -390,7 +390,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents spinExcess As Global.DevExpress.Web.ASPxSpinEdit
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer21 control.
     '''</summary>
@@ -399,7 +399,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer21 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''cboGPSelect control.
     '''</summary>
@@ -408,7 +408,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents cboGPSelect As Global.DevExpress.Web.ASPxComboBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer22 control.
     '''</summary>
@@ -417,7 +417,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer22 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''cboHospitalList control.
     '''</summary>
@@ -426,7 +426,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents cboHospitalList As Global.DevExpress.Web.ASPxComboBox
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer23 control.
     '''</summary>
@@ -435,7 +435,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer23 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''btnClear control.
     '''</summary>
@@ -444,7 +444,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents btnClear As Global.DevExpress.Web.ASPxButton
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer24 control.
     '''</summary>
@@ -453,7 +453,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer24 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''btnCancel control.
     '''</summary>
@@ -462,7 +462,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents btnCancel As Global.DevExpress.Web.ASPxButton
-
+    
     '''<summary>
     '''LayoutItemNestedControlContainer25 control.
     '''</summary>
@@ -471,7 +471,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents LayoutItemNestedControlContainer25 As Global.DevExpress.Web.LayoutItemNestedControlContainer
-
+    
     '''<summary>
     '''btnSave control.
     '''</summary>
@@ -480,7 +480,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents btnSave As Global.DevExpress.Web.ASPxButton
-
+    
     '''<summary>
     '''spinOid control.
     '''</summary>
@@ -489,7 +489,7 @@ Partial Public Class _Default1
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
     Protected WithEvents spinOid As Global.DevExpress.Web.ASPxSpinEdit
-
+    
     '''<summary>
     '''XpoDataSource2 control.
     '''</summary>

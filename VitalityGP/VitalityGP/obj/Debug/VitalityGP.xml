@@ -6,976 +6,1098 @@ VitalityGP
 </name>
 </assembly>
 <members>
-<member name="F:VitalityGP._Default1.ASPxFormLayout1">
-	<summary>
-ASPxFormLayout1 control.
+<member name="T:VitalityGP.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer1">
-	<summary>
-LayoutItemNestedControlContainer1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.cboTitle">
-	<summary>
-cboTitle control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer2">
-	<summary>
-LayoutItemNestedControlContainer2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.txtFirstName">
-	<summary>
-txtFirstName control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer3">
-	<summary>
-LayoutItemNestedControlContainer3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.txtLastname">
-	<summary>
-txtLastname control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer4">
-	<summary>
-LayoutItemNestedControlContainer4 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.dtDOB">
-	<summary>
-dtDOB control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer5">
-	<summary>
-LayoutItemNestedControlContainer5 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.cboGender">
-	<summary>
-cboGender control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer6">
-	<summary>
-LayoutItemNestedControlContainer6 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.txtPolicyNumber">
-	<summary>
-txtPolicyNumber control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.chkStaffClaim">
-	<summary>
-chkStaffClaim control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer7">
-	<summary>
-LayoutItemNestedControlContainer7 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.txtAddress1">
-	<summary>
-txtAddress1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer8">
-	<summary>
-LayoutItemNestedControlContainer8 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.txtAddress2">
-	<summary>
-txtAddress2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer9">
-	<summary>
-LayoutItemNestedControlContainer9 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.txtAddress3">
-	<summary>
-txtAddress3 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer10">
-	<summary>
-LayoutItemNestedControlContainer10 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.txtPostcode">
-	<summary>
-txtPostcode control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer11">
-	<summary>
-LayoutItemNestedControlContainer11 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.txtAltContact">
-	<summary>
-txtAltContact control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer12">
-	<summary>
-LayoutItemNestedControlContainer12 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.txtTelephone">
-	<summary>
-txtTelephone control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer13">
-	<summary>
-LayoutItemNestedControlContainer13 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.dtCallBack">
-	<summary>
-dtCallBack control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer14">
-	<summary>
-LayoutItemNestedControlContainer14 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.chkLeaveMessage">
-	<summary>
-chkLeaveMessage control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer15">
-	<summary>
-LayoutItemNestedControlContainer15 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.chkThirdParty">
-	<summary>
-chkThirdParty control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer18">
-	<summary>
-LayoutItemNestedControlContainer18 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.txtPresentingCondition">
-	<summary>
-txtPresentingCondition control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer16">
-	<summary>
-LayoutItemNestedControlContainer16 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.chkSelfPay">
-	<summary>
-chkSelfPay control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer17">
-	<summary>
-LayoutItemNestedControlContainer17 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.txtSymptoms">
-	<summary>
-txtSymptoms control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer19">
-	<summary>
-LayoutItemNestedControlContainer19 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.spinOutPatientLimit">
-	<summary>
-spinOutPatientLimit control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer20">
-	<summary>
-LayoutItemNestedControlContainer20 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.spinExcess">
-	<summary>
-spinExcess control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer21">
-	<summary>
-LayoutItemNestedControlContainer21 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.cboGPSelect">
-	<summary>
-cboGPSelect control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer22">
-	<summary>
-LayoutItemNestedControlContainer22 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.cboHospitalList">
-	<summary>
-cboHospitalList control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer23">
-	<summary>
-LayoutItemNestedControlContainer23 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.btnClear">
-	<summary>
-btnClear control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer24">
-	<summary>
-LayoutItemNestedControlContainer24 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.btnCancel">
-	<summary>
-btnCancel control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.LayoutItemNestedControlContainer25">
-	<summary>
-LayoutItemNestedControlContainer25 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.btnSave">
-	<summary>
-btnSave control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.spinOid">
-	<summary>
-spinOid control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP._Default1.XpoDataSource2">
-	<summary>
-XpoDataSource2 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="P:VitalityGP.My.Resources.Resources.ResourceManager">
-	<summary>
+</member>
+<member name="P:VitalityGP.My.Resources.Resources.ResourceManager">
+<summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>
-</member><member name="P:VitalityGP.My.Resources.Resources.Culture">
-	<summary>
+</member>
+<member name="P:VitalityGP.My.Resources.Resources.Culture">
+<summary>
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
 </summary>
-</member><member name="T:VitalityGP.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
-</member><member name="F:VitalityGP.MainMaster.ContentSplitter">
-	<summary>
-ContentSplitter control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP.MainMaster.MainContent">
-	<summary>
-MainContent control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP.MainMaster.XmlDataSourceLeft">
-	<summary>
-XmlDataSourceLeft control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP.PrevRefs.ASPxGridView1">
-	<summary>
-ASPxGridView1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP.PrevRefs.XpoDataSource1">
-	<summary>
-XpoDataSource1 control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP.LightMaster.MainContent">
-	<summary>
-MainContent control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:VitalityGP.EditForm.ASPxFormLayout1">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._ASPxFormLayout1">
+<summary>
 ASPxFormLayout1 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer1">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer1">
+<summary>
 LayoutItemNestedControlContainer1 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.cboTitle">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._cboTitle">
+<summary>
 cboTitle control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer2">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer2">
+<summary>
 LayoutItemNestedControlContainer2 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.txtFirstName">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._txtFirstName">
+<summary>
 txtFirstName control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer3">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer3">
+<summary>
 LayoutItemNestedControlContainer3 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.txtLastname">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._txtLastname">
+<summary>
 txtLastname control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer4">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer4">
+<summary>
 LayoutItemNestedControlContainer4 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.dtDOB">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._dtDOB">
+<summary>
 dtDOB control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer5">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer5">
+<summary>
 LayoutItemNestedControlContainer5 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.cboGender">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._cboGender">
+<summary>
 cboGender control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer6">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer6">
+<summary>
 LayoutItemNestedControlContainer6 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.txtPolicyNumber">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._txtPolicyNumber">
+<summary>
 txtPolicyNumber control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.ASPxFormLayout1_E1">
-	<summary>
-ASPxFormLayout1_E1 control.
+</member>
+<member name="F:VitalityGP._Default1._chkStaffClaim">
+<summary>
+chkStaffClaim control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer7">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer7">
+<summary>
 LayoutItemNestedControlContainer7 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.txtAddress1">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._txtAddress1">
+<summary>
 txtAddress1 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer8">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer8">
+<summary>
 LayoutItemNestedControlContainer8 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.txtAddress2">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._txtAddress2">
+<summary>
 txtAddress2 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer9">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer9">
+<summary>
 LayoutItemNestedControlContainer9 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.txtAddress3">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._txtAddress3">
+<summary>
 txtAddress3 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer10">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer10">
+<summary>
 LayoutItemNestedControlContainer10 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.txtPostcode">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._txtPostcode">
+<summary>
 txtPostcode control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer11">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer11">
+<summary>
 LayoutItemNestedControlContainer11 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.txtAltContact">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._txtAltContact">
+<summary>
 txtAltContact control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer12">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer12">
+<summary>
 LayoutItemNestedControlContainer12 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.txtTelephone">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._txtTelephone">
+<summary>
 txtTelephone control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer13">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer13">
+<summary>
 LayoutItemNestedControlContainer13 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.dtCallBack">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._dtCallBack">
+<summary>
 dtCallBack control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer14">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer14">
+<summary>
 LayoutItemNestedControlContainer14 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.chkLeaveMessage">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._chkLeaveMessage">
+<summary>
 chkLeaveMessage control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer15">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer15">
+<summary>
 LayoutItemNestedControlContainer15 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.chkThirdParty">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._chkThirdParty">
+<summary>
 chkThirdParty control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer18">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer18">
+<summary>
 LayoutItemNestedControlContainer18 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.txtPresentingCondition">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._txtPresentingCondition">
+<summary>
 txtPresentingCondition control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer16">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer16">
+<summary>
 LayoutItemNestedControlContainer16 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.chkSelfPay">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._chkSelfPay">
+<summary>
 chkSelfPay control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer17">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer17">
+<summary>
 LayoutItemNestedControlContainer17 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.txtSymptoms">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._txtSymptoms">
+<summary>
 txtSymptoms control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer19">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer19">
+<summary>
 LayoutItemNestedControlContainer19 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.spinOutPatientLimit">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._spinOutPatientLimit">
+<summary>
 spinOutPatientLimit control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer20">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer20">
+<summary>
 LayoutItemNestedControlContainer20 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.spinExcess">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._spinExcess">
+<summary>
 spinExcess control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer21">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer21">
+<summary>
 LayoutItemNestedControlContainer21 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.cboGPSelect">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._cboGPSelect">
+<summary>
 cboGPSelect control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer22">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer22">
+<summary>
 LayoutItemNestedControlContainer22 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.cboHospitalList">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._cboHospitalList">
+<summary>
 cboHospitalList control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer23">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer23">
+<summary>
 LayoutItemNestedControlContainer23 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.btnCancel">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._btnClear">
+<summary>
+btnClear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer24">
+<summary>
+LayoutItemNestedControlContainer24 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP._Default1._btnCancel">
+<summary>
 btnCancel control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.LayoutItemNestedControlContainer26">
-	<summary>
-LayoutItemNestedControlContainer26 control.
+</member>
+<member name="F:VitalityGP._Default1._LayoutItemNestedControlContainer25">
+<summary>
+LayoutItemNestedControlContainer25 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.spinOid">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._btnSave">
+<summary>
+btnSave control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP._Default1._spinOid">
+<summary>
 spinOid control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.EditForm.XpoDataSource1">
-	<summary>
+</member>
+<member name="F:VitalityGP._Default1._XpoDataSource2">
+<summary>
+XpoDataSource2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._ASPxFormLayout1">
+<summary>
+ASPxFormLayout1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer1">
+<summary>
+LayoutItemNestedControlContainer1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._cboTitle">
+<summary>
+cboTitle control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer2">
+<summary>
+LayoutItemNestedControlContainer2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._txtFirstName">
+<summary>
+txtFirstName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer3">
+<summary>
+LayoutItemNestedControlContainer3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._txtLastname">
+<summary>
+txtLastname control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer4">
+<summary>
+LayoutItemNestedControlContainer4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._dtDOB">
+<summary>
+dtDOB control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer5">
+<summary>
+LayoutItemNestedControlContainer5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._cboGender">
+<summary>
+cboGender control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer6">
+<summary>
+LayoutItemNestedControlContainer6 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._txtPolicyNumber">
+<summary>
+txtPolicyNumber control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._ASPxFormLayout1_E1">
+<summary>
+ASPxFormLayout1_E1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer7">
+<summary>
+LayoutItemNestedControlContainer7 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._txtAddress1">
+<summary>
+txtAddress1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer8">
+<summary>
+LayoutItemNestedControlContainer8 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._txtAddress2">
+<summary>
+txtAddress2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer9">
+<summary>
+LayoutItemNestedControlContainer9 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._txtAddress3">
+<summary>
+txtAddress3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer10">
+<summary>
+LayoutItemNestedControlContainer10 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._txtPostcode">
+<summary>
+txtPostcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer11">
+<summary>
+LayoutItemNestedControlContainer11 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._txtAltContact">
+<summary>
+txtAltContact control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer12">
+<summary>
+LayoutItemNestedControlContainer12 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._txtTelephone">
+<summary>
+txtTelephone control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer13">
+<summary>
+LayoutItemNestedControlContainer13 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._dtCallBack">
+<summary>
+dtCallBack control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer14">
+<summary>
+LayoutItemNestedControlContainer14 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._chkLeaveMessage">
+<summary>
+chkLeaveMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer15">
+<summary>
+LayoutItemNestedControlContainer15 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._chkThirdParty">
+<summary>
+chkThirdParty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer18">
+<summary>
+LayoutItemNestedControlContainer18 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._txtPresentingCondition">
+<summary>
+txtPresentingCondition control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer16">
+<summary>
+LayoutItemNestedControlContainer16 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._chkSelfPay">
+<summary>
+chkSelfPay control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer17">
+<summary>
+LayoutItemNestedControlContainer17 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._txtSymptoms">
+<summary>
+txtSymptoms control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer19">
+<summary>
+LayoutItemNestedControlContainer19 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._spinOutPatientLimit">
+<summary>
+spinOutPatientLimit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer20">
+<summary>
+LayoutItemNestedControlContainer20 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._spinExcess">
+<summary>
+spinExcess control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer21">
+<summary>
+LayoutItemNestedControlContainer21 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._cboGPSelect">
+<summary>
+cboGPSelect control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer22">
+<summary>
+LayoutItemNestedControlContainer22 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._cboHospitalList">
+<summary>
+cboHospitalList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer23">
+<summary>
+LayoutItemNestedControlContainer23 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._btnCancel">
+<summary>
+btnCancel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._LayoutItemNestedControlContainer26">
+<summary>
+LayoutItemNestedControlContainer26 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._spinOid">
+<summary>
+spinOid control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.EditForm._XpoDataSource1">
+<summary>
 XpoDataSource1 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.RootMaster.Body">
-	<summary>
+</member>
+<member name="F:VitalityGP.PrevRefs._ASPxGridView1">
+<summary>
+ASPxGridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.PrevRefs._XpoDataSource1">
+<summary>
+XpoDataSource1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.LightMaster._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.MainMaster._ContentSplitter">
+<summary>
+ContentSplitter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.MainMaster._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.MainMaster._XmlDataSourceLeft">
+<summary>
+XmlDataSourceLeft control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:VitalityGP.RootMaster._Body">
+<summary>
 Body control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.RootMaster.form1">
-	<summary>
+</member>
+<member name="F:VitalityGP.RootMaster._form1">
+<summary>
 form1 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.RootMaster.ASPxSplitter1">
-	<summary>
+</member>
+<member name="F:VitalityGP.RootMaster._ASPxSplitter1">
+<summary>
 ASPxSplitter1 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.RootMaster.SplitterContentControl1">
-	<summary>
+</member>
+<member name="F:VitalityGP.RootMaster._SplitterContentControl1">
+<summary>
 SplitterContentControl1 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.RootMaster.HeadLoginView">
-	<summary>
+</member>
+<member name="F:VitalityGP.RootMaster._HeadLoginView">
+<summary>
 HeadLoginView control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.RootMaster.ASPxMenu1">
-	<summary>
+</member>
+<member name="F:VitalityGP.RootMaster._ASPxMenu1">
+<summary>
 ASPxMenu1 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.RootMaster.SplitterContentControl3">
-	<summary>
+</member>
+<member name="F:VitalityGP.RootMaster._SplitterContentControl3">
+<summary>
 SplitterContentControl3 control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.RootMaster.Content">
-	<summary>
+</member>
+<member name="F:VitalityGP.RootMaster._Content">
+<summary>
 Content control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:VitalityGP.RootMaster.XmlDataSourceHeader">
-	<summary>
+</member>
+<member name="F:VitalityGP.RootMaster._XmlDataSourceHeader">
+<summary>
 XmlDataSourceHeader control.
 </summary>
-	<remarks>
+<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>

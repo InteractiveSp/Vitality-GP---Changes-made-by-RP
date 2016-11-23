@@ -111,5 +111,8 @@ Public Class _Default1
         dtCallBack.MinDate = Now.AddHours(2)
     End Sub
 
+    Private Sub _Default1_Load(sender As Object, e As EventArgs) Handles Me.Load
+
+    End Sub
 
 End Class
